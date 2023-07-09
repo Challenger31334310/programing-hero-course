@@ -149,6 +149,11 @@ image-one {
 
 .part-two-parent {
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+
 
 }
 
@@ -164,7 +169,7 @@ image-one {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-bottom: 30px;
+    margin-top: 70px;
 }
 
 .another-intro {
@@ -195,6 +200,7 @@ image-one {
     border-radius: 10px;
     background: #FFF8F3;
     margin: 0 auto;
+    margin-top: 90px;
 }
 
 .image-two {
