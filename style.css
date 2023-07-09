@@ -276,3 +276,33 @@ image-one {
     margin-left: 20px;
     margin-top: 20px;
 }
+.forth-headind{
+    text-align: center;
+    color: var(--dark-02, #474747);
+font-family: Open Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.some-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ap{
+    color: var(--dark-02, #474747);
+font-family: Open Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.dp{
+    color: var(--dark-02, #474747);
+font-family: Open Sans;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
