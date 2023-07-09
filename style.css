@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;700&display=swap" rel="stylesheet">
+}
+li{
+    list-style: none;
+}
+.heading-contant{
+    margin-top: 40px;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    
+}
+
+.nav{
+    display: flex;
+    gap: 80px;
+    margin-left: 30rem;
+    margin-top: 40px;
+    align-items: center;
+}
+h1{
+    color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+li{
+    color: #474747;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.btn-one{
+    color: var(--white-color, #FFF);
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 120px;
+height: 60px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FD6E0A;
+}
+.parent-nav{
+    width: 1600px;
+height: 837px;
+flex-shrink: 0;
+background: #FFF8F3;
+}
+.parent-div-two{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+img{
+    width: 584px;
+height: 676px;
+flex-shrink: 0;
+}
+.hi{
+    color: var(--dark-02, #474747);
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.mary{
+    color: var(--dark-01, #181818);
+font-family: Open Sans;
+font-size: 85px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.shot{
+    color: var(--dark-03, #757575);
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.download{
+    color: var(--white-color, #FFF);
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 200px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FD6E0A;
+}
+.contact{
+    color: #FD6E0A;
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 160px;
+height: 64px;
+flex-shrink: 0;
+}
+.part-two-child{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.part-two-parent{
+    text-align: center;
+    
+}
+.another-intro{
+    text-align: center;
+}
+.about{
+    color: var(--dark-01, #181818);
+text-align: center;
+font-family: Open Sans;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 30px;
+}
+.another-intro{
+    color: var(--dark-03, #757575);
+text-align: center;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 30px;
+}
+.name{
+    color: #757575;
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.part-two{
+    width: 1140px;
+height: 550px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #FFF8F3;
+margin: 0 auto;
+}
