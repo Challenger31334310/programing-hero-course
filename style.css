@@ -79,7 +79,7 @@ li {
     justify-content: space-around;
 }
 
-image-one {
+.image-one {
     width: 600px;
     height: 676px;
     flex-shrink: 0;
@@ -276,21 +276,39 @@ image-one {
     margin-left: 20px;
     margin-top: 20px;
 }
-.forth-headind{
+.h1{
     text-align: center;
-    color: var(--dark-02, #474747);
-font-family: Open Sans;
-font-size: 30px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
 }
-.some-text{
+.edu-exp{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
+    margin: 20px 40px 10px 20px;
+    gap: 90px;
 }
-.ap{
+.btn{
+    text-align: center;
+   
+}
+.forth-section{
+    width:1140px;
+    height:550px;
+    background-color:rgba(255, 255, 255, 0.763);
+    margin: 0 auto;
+}
+hr{
+    margin-top: 20px;
+}
+.h2{
+    color: var(--dark-01, #181818);
+text-align: center;
+font-family: Open Sans;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.my{
     color: var(--dark-02, #474747);
 font-family: Open Sans;
 font-size: 30px;
@@ -298,11 +316,4 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
-.dp{
-    color: var(--dark-02, #474747);
-font-family: Open Sans;
-font-size: 25px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-}
+
